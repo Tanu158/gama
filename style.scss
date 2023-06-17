@@ -1,0 +1,17 @@
+// for sass we create variables like other programming and use that variabls
+
+$color:red;
+$color2:green;
+
+
+body{
+    background-color: $color;
+    color: $color2;
+}
+p{
+    color: $color2;
+    color: $color;
+
+    
+}
+

@@ -1,0 +1,10 @@
+// nested sass using paragraph tag inside the div 
+div{
+    background-color: red;
+}
+    p{
+        background-color: green;
+    }
+    ul{
+        padding: 10px;
+    }
